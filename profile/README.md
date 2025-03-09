@@ -1,5 +1,5 @@
-# We use digital human cells to understand diseases
+# AI-Driven Genome-Scale Biosimulation
 
-### Netabolics is a **precision oncology** biotech company on a mission to develop novel combinations of repurposed drugs to treat cancer
+## A Platform for Combinational Drug Repurposing in Precision Oncology
 
-&#128712; Our patented technology integrates multiomics data with AI-driven biosimulation of cellular biology to be *sensitive to cancer diversity*.
+&#128712; Netabolics is a TechBio company on a mission to revert cancer. Our patented technology integrates multiomics data with AI-driven biosimulation to develop combination therapies sensitive to cancer biology.
