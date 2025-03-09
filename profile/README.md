@@ -1,5 +1,9 @@
-# AI-Driven Genome-Scale Biosimulation
+# AI-Driven Biosimulation for Drug Discovery
 
-## A Platform for Combinational Drug Repurposing in Precision Oncology
+## Netabolics is a biotech company on a mission to revert cancer
 
-&#128712; Netabolics is a TechBio company on a mission to revert cancer. Our patented technology integrates multiomics data with AI-driven biosimulation to develop combination therapies sensitive to cancer biology.
+We developed a platform for combinational drug repurposing in **precision oncology**. 
+
+&#128712; 
+
+&#9432; &nbsp; Our [patented](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022162440) technology integrates multi-Omics data, ordinary differential equations (ODE) based genome-scale simulation, and deep reinforcement learning (DRL) to develop combination therapies sensitive to cancer diversity.
