@@ -1,6 +1,6 @@
 # AI-Driven Biosimulation for Drug Discovery
 
-## We're on a mission to reverse cancer
+## We're on a mission to reverse cancer!
 
 Netabolics is a biotech company developing a platform for combinational drug repurposing in **precision oncology**. 
 
